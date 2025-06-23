@@ -29,6 +29,14 @@
 #### Before cleaning we had 24 rows and 10 columns and after automation we have 15 rows and 10 columns
 ![image](https://github.com/user-attachments/assets/dbbf314f-6e70-4397-806c-ad9117cdd444)
 
+### Clean data file 
+![image](https://github.com/user-attachments/assets/3093cebb-b45e-49cc-9f7f-c70131af875b)
+
+### Duplicate records
+![image](https://github.com/user-attachments/assets/c5b7002a-24fe-472d-8689-b88867a20f64)
+
+
+
 
 ### Learnings:
 1. How to make data pipelines automated and reproducible.
