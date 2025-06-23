@@ -26,6 +26,7 @@
 ![image](https://github.com/user-attachments/assets/1a6ec07a-c3d4-4b60-9de9-ae1906df401e)
 
 ### Output 
+#### Before cleaning we had 24 rows and 10 columns and after automation we have 15 rows and 10 columns
 ![image](https://github.com/user-attachments/assets/dbbf314f-6e70-4397-806c-ad9117cdd444)
 
 
