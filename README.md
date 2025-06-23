@@ -20,7 +20,14 @@
 7. 📈 Displays dataset stats: row & column count, missing data summary.
 8. 💾 Saves the cleaned dataset and duplicate records separately.
 
+   ## Here is the snippet from the code:-
+
+#### Libraries used 
 ![image](https://github.com/user-attachments/assets/1a6ec07a-c3d4-4b60-9de9-ae1906df401e)
+
+### Output 
+![image](https://github.com/user-attachments/assets/dbbf314f-6e70-4397-806c-ad9117cdd444)
+
 
 ### Learnings:
 1. How to make data pipelines automated and reproducible.
